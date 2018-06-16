@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Distant Viewing</title>
+    <title>Distant Viewing Lab</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="https://distanttv.org/favicon.ico"/>
     <link rel="stylesheet" href="stylesheets/styles.css">
@@ -16,7 +16,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="https://distanttv.org" style="color:#000000">Distant Viewing</a></h1>
+        <h1><a href="https://distanttv.org" style="color:#000000">Distant Viewing Lab</a></h1>
         <p>
           <b>ABOUT</b></br>
           <a href="goals">Goals</a><br>
